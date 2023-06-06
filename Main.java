@@ -20,7 +20,7 @@ class Main {
 
       Arrays.sort(charArray1);
       Arrays.sort(charArray2);
-
+      
       boolean result = Arrays.equals(charArray1, charArray2);
 
       if(result) {
